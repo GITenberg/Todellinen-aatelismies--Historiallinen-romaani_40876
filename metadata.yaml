@@ -1,0 +1,36 @@
+_repo: Todellinen-aatelismies--Historiallinen-romaani_40876
+_version: 0.1.0
+alternative_title: A Gentleman of France. Finnish
+contributor:
+  translator:
+    agent_name: Jaakkola, Väinö
+    alias: Jaakkola, Vaino
+    gutenberg_agent_id: '40868'
+    url: http://www.gutenberg.org/2009/agents/40868
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: ''
+gutenberg_issued: '2012-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40876'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Henry III, 1574-1589 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+title: 'Todellinen aatelismies: Historiallinen romaani'
+url: http://www.gutenberg.org/ebooks/40876
